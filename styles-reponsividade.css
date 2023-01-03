@@ -1,7 +1,6 @@
 @media (max-width: 800px) {
     .main-inicial {
-        background: linear-gradient(90deg, rgb(8, 13, 18) 0%, rgba(3, 13, 31, 1) 46%);
-        background: url("./assets/responsividade/Versão-Mobile_01.jpg");
+        background-image: url("./assets/responsividade/Versão-Mobile_01.jpg");
         background-position: top;
         background-repeat: no-repeat;
         background-size: cover;
@@ -16,8 +15,7 @@
     }
 
     .main-parte-2 {
-        background: linear-gradient(90deg, rgb(8, 13, 18) 0%, rgba(3, 13, 31, 1) 46%);
-        background: url("./assets/responsividade/Versão-Mobile_02.jpg");
+        background-image: url("./assets/responsividade/Versão-Mobile_02.jpg");
         background-position: top;
         background-repeat: no-repeat;
         background-size: cover;
@@ -68,7 +66,7 @@
         margin-bottom: 10px;
     }
 
-    q .card-1-parte-2 div {
+    .card-1-parte-2 div {
         display: flex;
         align-items: center;
         max-width: 220px;
@@ -99,15 +97,16 @@
     }
 
     .mobile-1 {
-        background-image: url('./assets/responsividade/Primeira-Imagem.jpeg');
+        background-image: url('./assets/responsividade/Primeira-Imagem.jpg');
         display: block;
         background-position: center;
         background-size: cover;
-        width: 334px;
-        height: 125px;
+        width: 345px;
+        height: 130px;
         position: relative;
         z-index: 2;
         margin-bottom: -62.5px;
+        border-radius: 8px;
     }
 
     .mobile-2 {
@@ -115,11 +114,13 @@
         display: block;
         background-position: center;
         background-size: cover;
-        width: 334px;
+        width: 345px;
         height: 125px;
         position: relative;
         z-index: 2;
         margin-bottom: -62.5px;
+        border-radius: 8px;
+
     }
 
     .mobile-3 {
@@ -127,11 +128,13 @@
         display: block;
         background-position: center;
         background-size: cover;
-        width: 334px;
+        width: 345px;
         height: 125px;
         position: relative;
         z-index: 2;
         margin-bottom: -62.5px;
+        border-radius: 8px;
+
     }
 
     .desktop {
@@ -174,8 +177,7 @@
 
 
     .main-parte-4 {
-        background: linear-gradient(90deg, rgb(8, 13, 18) 0%, rgba(3, 13, 31, 1) 46%);
-        background: url("./assets/responsividade/Versão-Mobile_05.jpg");
+        background-image: url("./assets/responsividade/Versão-Mobile_05.jpg");
         background-position: top;
         background-repeat: no-repeat;
         background-size: cover;
@@ -219,7 +221,7 @@
         display: block;
     }
 }
-@media (max-width: 799px) {
+@media (max-width: 800px) {
     .container-4 {
         padding-top: 680px;
     }
@@ -255,64 +257,3 @@
         padding-top: 430px;
     }
 }
-/* @media (min-width: 1920px) {
-    .container-4 {
-        margin-left: 630px !important;
-        margin-right: 180px !important;
-    }
-}
-
-@media (min-width: 1700px) {
-    .container-4 {
-        margin-left: 630px !important;
-        margin-right: 80px !important;
-    }
-}
-
-@media (min-width: 1500px) {
-    .container-4 {
-        margin-left: 600px !important;
-    }
-}
-
-@media (min-width: 1200px) {
-    .container-4 {
-        margin-left: 400px !important;
-    }
-}
-
-@media (min-width: 1100px) {
-    .container-4 {
-        margin-left: 480px !important;
-    }
-}
-
-@media (min-width: 1000px) {
-    .container-4 {
-        margin-left: 350px !important;
-    }
-}
-
-@media (min-width: 940px) {
-    .container-4 {
-        margin-left: 300px !important;
-    }
-}
-
-@media (min-width: 900px) {
-    .container-4 {
-        margin-left: 250px !important;
-    }
-}
-
-@media (min-width: 860px) {
-    .container-4 {
-        margin-left: 200px !important;
-    }
-}
-
-@media (min-width: 801px) {
-    .container-4 {
-        margin-left: 180px !important;
-    } */
-/* } */
