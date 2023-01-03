@@ -1,17 +1,16 @@
 @media (max-width: 800px) {
     .main-inicial {
-        background-image: url("./assets/Versao-Mobile_01.jpg");
+        background: #02081A;
         background-position: top;
         background-repeat: no-repeat;
         background-size: cover;
         padding-left: 20px !important;
-
+        margin-top: -100px;
     }
 
     .container-1 {
-        padding-top: 450px;
         max-width: none;
-        width: 80%;
+        width: 100%;
     }
 
     .main-parte-2 {
