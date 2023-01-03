@@ -1,7 +1,7 @@
 @media (max-width: 800px) {
     .main-inicial {
         background: linear-gradient(90deg, rgb(8, 13, 18) 0%, rgba(3, 13, 31, 1) 46%);
-        background: url("./assets/responsividade/Versão-Mobile_01.png");
+        background: url("./assets/responsividade/Versão-Mobile_01.jpg");
         background-position: top;
         background-repeat: no-repeat;
         background-size: cover;
@@ -17,7 +17,7 @@
 
     .main-parte-2 {
         background: linear-gradient(90deg, rgb(8, 13, 18) 0%, rgba(3, 13, 31, 1) 46%);
-        background: url("./assets/responsividade/Versão-Mobile_02.png");
+        background: url("./assets/responsividade/Versão-Mobile_02.jpg");
         background-position: top;
         background-repeat: no-repeat;
         background-size: cover;
@@ -99,7 +99,7 @@
     }
 
     .mobile-1 {
-        background-image: url('./assets/responsividade/Primeira-Imagem.png');
+        background-image: url('./assets/responsividade/Primeira-Imagem.jpeg');
         display: block;
         background-position: center;
         background-size: cover;
@@ -111,7 +111,7 @@
     }
 
     .mobile-2 {
-        background-image: url('./assets/responsividade/Primeira-Imagem-1.png');
+        background-image: url('./assets/responsividade/Primeira-Imagem-1.jpg');
         display: block;
         background-position: center;
         background-size: cover;
@@ -123,7 +123,7 @@
     }
 
     .mobile-3 {
-        background-image: url('./assets/responsividade/Primeira-Imagem-2.png');
+        background-image: url('./assets/responsividade/Primeira-Imagem-2.jpg');
         display: block;
         background-position: center;
         background-size: cover;
@@ -175,7 +175,7 @@
 
     .main-parte-4 {
         background: linear-gradient(90deg, rgb(8, 13, 18) 0%, rgba(3, 13, 31, 1) 46%);
-        background: url("./assets/responsividade/Versão-Mobile_05.png");
+        background: url("./assets/responsividade/Versão-Mobile_05.jpg");
         background-position: top;
         background-repeat: no-repeat;
         background-size: cover;
