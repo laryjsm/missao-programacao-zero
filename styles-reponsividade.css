@@ -15,7 +15,7 @@
     }
 
     .main-parte-2 {
-        background-image: url("./assets/Versao-Mobile_02.jpg");
+        background-image: url("./assets/Versao-Mobile_02.webp");
         background-position: top;
         background-repeat: no-repeat;
         background-size: cover;
@@ -120,7 +120,7 @@
     }
 
     .mobile-1 {
-        background-image: url('./assets/responsividade/Primeira-Imagem.jpg');
+        background-image: url('./assets/responsividade/Primeira-Imagem-1.webp');
         display: block;
         background-position: center;
         background-size: cover;
@@ -133,7 +133,7 @@
     }
 
     .mobile-2 {
-        background-image: url('./assets/responsividade/Primeira-Imagem-1.jpg');
+        background-image: url('./assets/responsividade/Primeira-Imagem-1.webp');
         display: block;
         background-position: center;
         background-size: cover;
@@ -147,7 +147,7 @@
     }
 
     .mobile-3 {
-        background-image: url('./assets/responsividade/Primeira-Imagem-2.jpg');
+        background-image: url('./assets/responsividade/Primeira-Imagem-2.webp');
         display: block;
         background-position: center;
         background-size: cover;
@@ -200,7 +200,7 @@
 
 
     .main-parte-4 {
-        background-image: url("./assets/Versao-Mobile_05.jpg");
+        background-image: url("./assets/Versao-Mobile_05.webp");
         background-position: top;
         background-repeat: no-repeat;
         background-size: cover;

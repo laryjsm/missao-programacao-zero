@@ -28,7 +28,7 @@ body {
 
 .main-inicial {
     background: linear-gradient(90deg, rgb(8, 13, 18) 0%, rgba(3, 13, 31, 1) 46%);
-    background: url("./assets/FundosDesktop_01.jpeg");
+    background: url("./assets/FundosDesktop_01.webp");
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -109,7 +109,7 @@ body {
 
 .main-parte-2 {
     background: linear-gradient(90deg, rgb(8, 13, 18) 0%, rgba(3, 13, 31, 1) 46%);
-    background: url("./assets/FundosDesktop_03.jpeg");
+    background: url("./assets/FundosDesktop_03.webp");
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -215,7 +215,7 @@ h2 span{
 }
 
 .main-parte-3 {
-    background: url("./assets/FundosDesktop_04.jpeg");
+    background: url("./assets/FundosDesktop_04.webp");
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -342,7 +342,7 @@ h2 span{
 }
 
 .main-parte-4 {
-    background: url("./assets/FundosDesktop_05.jpeg");
+    background: url("./assets/FundosDesktop_05.webp");
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -368,7 +368,7 @@ h2 span{
 }
 
 .main-parte-5 {
-    background: url("./assets/FundosDesktop_06.jpeg");
+    background: url("./assets/FundosDesktop_06.webp");
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
