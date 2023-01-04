@@ -6,7 +6,6 @@
         background-size: cover;
         padding-left: 20px !important;
         padding-right: 20px !important;
-        margin-top: -100px;
     }
 
     .container-1 {
@@ -23,7 +22,7 @@
 
     .logo-missao-zero {
         width: 200px !important;
-        margin: 0 !important;
+        padding: 20px;
     }
 
     .primeiro-texto-main-inicial,
